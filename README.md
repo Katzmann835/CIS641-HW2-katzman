@@ -10,5 +10,5 @@
 
 For my technical background, I have had alot of experience with programming. I started four years ago, and since then, I used C/C++, Python, Javascript, Go/Golang, SQL/SQLite, HTML, CSS, github, Flask, Ghidra and docker. I hope I can improve on some of these skills during the semester.
 
-![Here is a link to a link of one of my favorite memes: It is trollface! Have fun!]
+Here is a link to a link of one of my favorite memes: It is trollface! Have fun!
 (https://i.kym-cdn.com/entries/icons/original/000/000/091/TrollFace.jpg) 
