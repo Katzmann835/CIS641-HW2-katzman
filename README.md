@@ -1,5 +1,3 @@
-theme: cayman
-
 # Nathan Katzman
 
 * One of my personal intrests is that I like to hike on trails that can lead to a beach or lead to the top of a peak.
